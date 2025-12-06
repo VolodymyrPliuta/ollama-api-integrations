@@ -28,7 +28,7 @@ ollama list
 
 ## External APIs:
 
-- ** Repo with list of public APIs** → ```https://github.com/public-apis/public-apis```
+- ** List of public APIs** → https://github.com/public-apis/public-apis
 
 I used the following APIs in my experiments:
 - **IP Geolocation API** → http://ip-api.com/json/ - No API key required
